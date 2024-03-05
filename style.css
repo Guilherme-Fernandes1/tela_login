@@ -1,0 +1,242 @@
+.bodyLogin, .bodyRecuperarSenha, .htmlRedefinirSenha, .htmlCodigo_email, .htmlNovaSenha, .htmlRegistrar-se {
+    background-color: #5b3d81;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .tituloLogin{
+      text-align: center;
+    }
+    
+    #emailLogin, #senhaLogin{
+      border-radius: 30px;
+      width: 300px;
+      height: 50px;
+      font-size: 18px; 
+      margin: 10px 0 30px 0;
+    }
+    
+    .mainLogin {
+      background-color: white;
+      border: thick double;
+      border-radius: 10px;
+      padding: 25px;
+      min-width: 300px;
+      max-width: 360px;
+      margin:auto;
+    
+    }
+    
+    .labelEmailLogin, .labelSenhaLogin {
+      font-size: 20px;
+    }
+    
+    .buttonEntrar {
+      border-radius: 30px;
+      width: 300px;
+      height: 50px;
+      font-size: 25px;
+      margin: 35px 0 35px 0;
+      background-color: rgb(64, 64, 219);
+    }
+    
+    /* Pagina recuperar senha*/
+    
+    .htmlRecuperarSenha {
+    background-color: #5b3d81;
+    }
+    
+    .h2RecuperarSenha {
+      text-align: center;
+    }
+    
+    .aHome {
+      font-size: 20px;
+      color: black;
+    }
+    
+    .bodyRecuperarSenha {
+      min-width: 300px;
+      max-width: 460px;
+      margin:auto;
+      border: thick double;
+      border-radius: 10px;
+      background-color: white;
+      padding: 0 2px 20px 20px;
+    }
+    
+    .headerRecuperarSenha > h1 , .mainRecuperarSenha > p{
+    text-align: center;
+    }
+    
+    .p_RecuperarSenha{
+      font-size: 18px;
+    }
+    
+    #inputEmailRecuperarSenha{
+      border-radius: 30px;
+      width: 300px;
+      height: 50px;
+      font-size: 18px;
+      margin: 15px 0 35px 0;
+    }
+    
+    .labelEmailRecuperarSenha {
+      font-size: 20px;
+    
+    }
+    
+    .buttonEmailRecuperarSenha {
+      border-radius: 30px;
+      width: 300px;
+      height: 50px;
+      font-size: 25px;
+      background-color: rgb(64, 64, 219) ;
+      margin: 15px 0 35px 0;
+      
+      }
+    .aEmailRecuperarSenha {
+      color: black;
+      text-decoration: none;
+    }
+    
+    /* pagina redefinir senha*/
+     .bodyRedefinirSenha{ 
+       min-width: 300px;
+       max-width: 460px;
+      margin:auto;
+       border: thick double;
+      border-radius: 10px;
+      background-color: white;
+      padding: 0 2px 20px 20px;   
+    
+    }
+    
+    .p_RedefinirSenha {
+      font-size: 18px;
+    }
+    
+    .inputEmailRedefinirSenha{
+      border-radius: 30px;
+      width: 250px;
+      height: 50px;
+      font-size: 18px;
+      margin: 10px 0 5px 0;
+    }
+    
+    .buttonEmailRedefinirSenha {
+      border-radius: 30px;
+      width: 300px;
+      height: 50px;
+      font-size: 25px;
+      background-color: rgb(64, 64, 219) ;
+      margin: 15px 0 35px 0;
+    }
+    
+    .aEmailRedefinirSenha {
+      color: black;
+      text-decoration: none;
+    }
+    
+    /* Código e-mail */
+    
+     .bodyCodigo_email { 
+       min-width: 300px;
+       max-width: 460px;
+      margin:auto;
+       border: thick double;
+      border-radius: 10px;
+      background-color: white;
+      padding: 0 2px 20px 20px; 
+     }
+    
+    .p_codigo_email {
+      font-size: 18px;
+    }
+    
+    .headerCodigo_email > h1 {
+    text-align: center;
+    }
+    
+    .inputCodigoEmail {
+     border-radius: 30px;
+      width: 250px;
+      height: 50px;
+      font-size: 18px;
+      margin: 10px 0 5px 0;
+    }
+    
+    .buttonCodigoEmail {
+    border-radius: 30px;
+      width: 300px;
+      height: 50px;
+      font-size: 25px;
+      background-color: rgb(64, 64, 219) ;
+      margin: 15px 0 35px 0;
+     
+    }
+    
+    .aCodigoEmail {
+      color: black;
+      text-decoration: none;
+      }
+      
+      /* Nova senha*/
+     .pNovaSenha {
+     background-color: lightgreen;
+     text-align:center;
+     font-size:18px;
+     padding: 0 5px 0 5px;
+     }
+    
+    .headerNovaSenha > h1 {
+    text-align: center;
+    }
+     .bodyNovaSenha { 
+       min-width: 300px;
+       max-width: 460px;
+       min-height: 500px;
+      margin:auto;
+       border: thick double;
+      border-radius: 10px;
+      background-color: white;
+      padding: 0 2px 20px 20px; 
+     }
+    
+    /* Registrar-se */
+    
+     .bodyRegistrar-se { 
+       min-width: 300px;
+       max-width: 460px;
+      margin:auto;
+       border: thick double;
+      border-radius: 10px;
+      background-color: white;
+      padding: 0 2px 20px 20px; 
+     }
+    
+     .inputRegistrar-se{
+      border-radius: 5px;
+      width: 300px;
+      font-size: 18px;
+      margin: 5px 0 20px 0;
+    }
+    
+    .labelRegistrar-se{
+      font-size: 15px;
+      font-weight: bold;
+    }
+    
+    .buttonRegistrar-se {
+      color: black;
+      text-decoration: none;
+      border-radius: 30px;
+      width: 300px;
+      height: 50px;
+      font-size: 25px;
+      background-color: rgb(64, 64, 219) ;
+      margin: 15px 0 20px 0;
+    }
+    
+    .headerRegistrar-se > h1 {
+    text-align: center;
+    }
